@@ -39,6 +39,10 @@ button {
   ;
 }
 
+.wrapper p{
+  margin: 50px;
+}
+
 
 .glow {
   border-radius: 3rem;
@@ -57,4 +61,8 @@ to {
 .bradius {
   border-radius: 3rem;
   background-color: rgba(0, 0, 0, 0);
+}
+
+.credits {
+font-size: medium;
 }
